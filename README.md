@@ -1,2 +1,3 @@
 # hell-world
-Just another repository
+只是另一个存储库
+只是证明不同而已
